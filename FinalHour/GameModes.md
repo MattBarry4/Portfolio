@@ -1,10 +1,10 @@
-Game Modes
+# Game Modes
 
-Match Making:
+## Match Making:
 
 Online Game Finding - When players want to play online with random players around the world.
 	
-Mechanics:	
+### Mechanics:	
 
 Connections: Games will be hosted by players so we don't have any dedicated servers to hold and maintain. This will be done in the fashion of how many games handle it like Halo, COD, and others. 
 
@@ -17,7 +17,7 @@ Games can only be searched if the player’s party size is below a maximum set n
 Custom Games - When players want to just play game modes with friends or even just by themselves.
 
 
-		Mechanics:
+### Mechanics:
 		
 Connections: Games will have designated host that will be able to completely set up the game and game settings. Can set up a lobby with a party system as explained above. If the host were to leave then host migration with take action as usual to try and appoint a new host. 
 
@@ -25,7 +25,7 @@ Available Game Modes:
 
 Survival - Player(s) are loaded in a certain part of the city and have to survive through scavenging, crafting, & raiding. Last player alive in the server will be declared the winner. Game mode can be searched through 3 different settings (short game, medium game, long game).
 
-		Mechanics:
+### Mechanics:
 
 Players are first loaded into a game lobby with all the connected players. Players will then have the opportunity to pick which part of the city they’d like to survive in. The map that will be played will be based on majority decision. If there is a tie, than one of the two will be randomly chosen.
 
@@ -35,11 +35,9 @@ The last player alive in the server wins the match. Once a player dies, he will 
 
 Player WILL have an inventory system, crafting and scavenging ability, survival and life vitals. Player will also have a small loadout to spawn into the game with.
 
-
-
 Deathmatch - Player versus player action packed gameplay similar to Call of Duty. 
 
-		Mechanics:
+### Mechanics:
 
 Players are first loaded into a game lobby with all the connected players. Players will then have the opportunity to pick which part of the city they’d like to battle in. The map that will be played will be based on majority decision. If there is a tie, than one of the two will be randomly chosen.
 
@@ -49,7 +47,7 @@ Player will NOT have an inventory system, crafting and scavenging ability, survi
 
 Mutants Versus Humans - Player versus player action packed gameplay where one team plays as humans and one team plays as mutants.
 
-		Mechanics:
+### Mechanics:
 
 Players are first loaded into a game lobby with all the connected players. Players will then have the opportunity to pick which part of the city they’d like to battle in. The map that will be played will be based on majority decision. If there is a tie, than one of the two will be randomly chosen.
 
@@ -59,7 +57,7 @@ Player will NOT have an inventory system, crafting and scavenging ability, survi
 
 Horde Missions - Player(s) take on objective based missions to achieve a certain task. Always will occur at night or approaching night. Replaces single player game mode and can tell a story through the missions of what has happened to the city.
 
-		Mechanics:
+### Mechanics:
 
 Players are first loaded into a game lobby with all the connected players. Players will then have the opportunity to pick which mission they would like to play. The mission that will be played will be based on majority decision. If there is a tie, than one of the two will be randomly chosen.
 
